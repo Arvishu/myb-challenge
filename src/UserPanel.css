@@ -16,6 +16,7 @@ li{
     border-bottom: 2px solid rgba(128, 128, 128, 0.801);
     border-top: 2px solid  rgba(128, 128, 128, 0.801);
     text-align: center;
+    width:20vw;
         
 }
 .marginUnderlined{
@@ -24,11 +25,21 @@ li{
     
 }
 .smallEventsFriends{
-    font-size: 2vh;
+    font-size: 1.2vw;
     font-style: italic;
     color: rgba(128, 128, 128, 0.801)
 }
 .userPosition{
     position: relative;
-    top:-80px;
+    width: 20vw;
+    margin-left: 2vw;
 }
+.userPosition h6{
+   font-size: 2vw;
+}
+.userPosition h4{
+    font-size: 2vw;
+ }
+.userPosition li{
+    font-size: 1.5vw;
+ }

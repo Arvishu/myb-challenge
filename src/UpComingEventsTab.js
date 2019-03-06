@@ -7,7 +7,7 @@ export default class UpComingEventsTab extends Component {
     return (
       <div>
         <Container>
-          <h6>Upcoming Events</h6>
+          <h6 className="tabTitle">Upcoming Events</h6>
           <Row>
             <Col className="eventsTab ">
             

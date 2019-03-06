@@ -20,10 +20,10 @@ export default class FriendsTab extends Component {
     return (
       <div>
         <Container>
-          <h6>Friends</h6>
+          <h6 className="tabTitle">Friends</h6>
           <Row>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user1} alt="user1" />
                 </Col-4>
                 <Col-6  className="marginFriendTab"><h6>Maeva Chevalier</h6>
@@ -35,7 +35,7 @@ export default class FriendsTab extends Component {
 
             </Col>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user2} alt="user2" />
                 </Col-4>
                 <Col-6><h6>Quentin Lefevre</h6>
@@ -45,7 +45,7 @@ export default class FriendsTab extends Component {
               </Row>
             </Col>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user3} alt="user3" />
                 </Col-4>
                 <Col-6><h6>Norbert Hubert</h6>
@@ -57,7 +57,7 @@ export default class FriendsTab extends Component {
           </Row>
           <Row>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user4} alt="user4" />
                 </Col-4>
                 <Col-6><h6>Paulin Noel</h6>
@@ -67,7 +67,7 @@ export default class FriendsTab extends Component {
               </Row>
             </Col>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user5} alt="user5" />
                 </Col-4>
                 <Col-6><h6>Théo Julien</h6>
@@ -77,7 +77,7 @@ export default class FriendsTab extends Component {
               </Row>
             </Col>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user6} alt="user6" />
                 </Col-4>
                 <Col-6><h6>Maëlle Guillaume</h6>
@@ -89,7 +89,7 @@ export default class FriendsTab extends Component {
           </Row>
           <Row>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user7} alt="user7" />
                 </Col-4>
                 <Col-6><h6>Joe Martin</h6>
@@ -99,7 +99,7 @@ export default class FriendsTab extends Component {
               </Row>
             </Col>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user8} alt="user8" />
                 </Col-4>
                 <Col-6><h6>Bob Robin</h6>
@@ -109,7 +109,7 @@ export default class FriendsTab extends Component {
               </Row>
             </Col>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user9} alt="user9" />
                 </Col-4>
                 <Col-6><h6>Sacha Garcia</h6>
@@ -121,7 +121,7 @@ export default class FriendsTab extends Component {
           </Row>
           <Row>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user10} alt="user10" />
                 </Col-4>
                 <Col-6><h6>Nicolas Giraud</h6>
@@ -131,7 +131,7 @@ export default class FriendsTab extends Component {
               </Row>
             </Col>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user11} alt="user11" />
                 </Col-4>
                 <Col-6><h6>Mattéo Leclerc</h6>
@@ -141,7 +141,7 @@ export default class FriendsTab extends Component {
               </Row>
             </Col>
             <Col className='friendTab'>
-              <Row>
+              <Row >
                 <Col-4><img className="friend" src={user12} alt="user12" />
                 </Col-4>
                 <Col-6><h6>Louis Mercier</h6>

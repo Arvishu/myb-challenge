@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import player from './images/player.jpeg';
 import { Container, Row, Col } from 'react-bootstrap';
-import './UserPanel.css'
+import './UserPanel.css';
 
 
 export default class UserPanel extends Component {

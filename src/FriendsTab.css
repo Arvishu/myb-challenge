@@ -1,3 +1,6 @@
+.tabTitle{
+    margin-top: 1vw;
+}
 .friendTab{
     border-radius: 5px;
     border: 1px solid rgba(128, 128, 128, 0.699);
@@ -9,9 +12,19 @@
     
 }
 .friend{
-    margin: 11px 0px 0px 10px;
+    height: 6vw;
+    width: auto;    
+    margin: 1vw 0vw 0vw 1vw;
 }
-col-6{
-    margin-top:10px;
-    margin-left:10px;
+.friendTab col-6{
+    margin-top:1vw;
+    margin-left:1vw;
+
+}
+.friendTab h6{
+    font-size:1.38vw;
+    margin-bottom: 0.8vw;
+}
+.friendTab li{
+    font-size:1.2vw;
 }
