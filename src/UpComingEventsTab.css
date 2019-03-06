@@ -1,0 +1,12 @@
+.eventsTab{
+    border-radius: 5px;
+    border: 1px solid rgba(128, 128, 128, 0.699);
+    margin: 5px;
+    height:14vw;
+    width:20vw;
+    display: inline-grid;
+    
+}
+.hidden{
+    visibility: hidden;
+}

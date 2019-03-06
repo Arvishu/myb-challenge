@@ -1,0 +1,8 @@
+.bottomLine{
+    border-bottom: 2px solid rgba(128, 128, 128, 0.801);
+    width: 72vw;
+    position: relative;
+    left: 21vw;
+    margin-top:60px;
+
+}

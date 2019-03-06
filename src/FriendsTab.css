@@ -1,0 +1,17 @@
+.friendTab{
+    border-radius: 5px;
+    border: 1px solid rgba(128, 128, 128, 0.699);
+    margin: 5px;
+    height:8vw;
+    width:20vw;
+    display: inline-grid;
+    text-align: left;
+    
+}
+.friend{
+    margin: 11px 0px 0px 10px;
+}
+col-6{
+    margin-top:10px;
+    margin-left:10px;
+}
