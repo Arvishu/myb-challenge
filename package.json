@@ -5,6 +5,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.7",
     "@emotion/styled": "^10.0.7",
+    "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
     "react": "^16.8.3",
     "react-bootstrap": "^1.0.0-beta.5",
@@ -26,5 +27,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.18.10"
+  }
 }

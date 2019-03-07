@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ProfilePage from './ProfilePage.js';
+import ProfilePage from './components/ProfilePage/ProfilePage';
 
 
 
