@@ -33,6 +33,7 @@ li{
     position: relative;
     width: 20vw;
     margin-left: 2vw;
+    margin-top: 2vw;
 }
 .userPosition h6{
    font-size: 2vw;
