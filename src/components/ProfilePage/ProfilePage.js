@@ -1,4 +1,4 @@
-import React, { Component, } from 'react';
+import React, { Component } from 'react';
 import { Container, Row } from 'react-bootstrap';
 import './ProfilePage.css';
 
@@ -12,7 +12,7 @@ export default class ProfilePage extends Component {
       <Container className="componentPosition">
         <Row className="rowSize">
 
-          <Col-4><UserPanel /></Col-4>
+          <Col-4><UserPanel/></Col-4>
           <Col-7><TabBar /></Col-7>
 
         </Row>

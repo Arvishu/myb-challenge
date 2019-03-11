@@ -1,21 +1,29 @@
+.containerEvents{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
 .eventsTab{
     border-radius: 5px;
     border: 1px solid rgba(128, 128, 128, 0.699);
-    margin: 5px;
+    margin: 1vw;
     height:14vw;
     width:20vw;
-    display: inline-grid;
+    grid-row:auto;
+    position: relative;
     
 }
-.hidden{
-    visibility: hidden;
+.eventsTab col-1{
+margin:1vw;
 }
+
 .eventsTab p{
     font-size: 1vw;
     margin-bottom: 1vw;
 }
 .eventsTab h3{
     font-size: 2vw;
+    margin-bottom:1vw;
 }
 .eventsTab li{
     font-size: 1vw;
